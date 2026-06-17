@@ -1,0 +1,78 @@
+@import url(reset.css);
+
+h1 {
+   color: #190af0;
+}
+
+h2 {
+   color: hsl(61, 94%, 43%);
+}
+*{
+   color: #000000;
+}
+
+p{
+   color: #197c05;
+}
+
+.title{
+   color: #0534cf;
+}
+.rel{
+   color: oklch(47.136% 0.18231 7.668);
+}
+#top{
+   color: #ff00ea;
+}
+/* [class*="te"]{
+   color: #000;
+} */
+
+div.rel{
+   color: #a09d0b;
+}
+
+/* div,
+.text,
+.title{
+   color: #000;
+} */
+
+div{
+   font-size: 20px;
+}
+.text{
+   text-transform: uppercase;
+}
+.list{
+   background-color: #b0dfe7;
+}
+
+/* .artile h1 {
+   color: #000;
+} */
+ .article a {
+   color: #ff0000;
+ }
+ .article a {
+   margin-bottom: 10px;
+ }
+
+ .article > p {
+   color: #9310df;
+ }
+ .article ~ p {
+   color: #000000;
+ }
+
+ .article + p {
+   color: #ee0c0c;
+ }
+
+ .list{
+   color: #240fe0;
+ }
+ .item {
+   color: #000;
+ }
+ 
