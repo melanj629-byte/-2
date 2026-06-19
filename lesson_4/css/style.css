@@ -1,0 +1,54 @@
+@import url(reset.css);
+
+@import url("fonts.css");
+
+body {
+   font-family: "Playfair Display", serif; 
+   font-size: 20px;
+   color: #551501;
+}
+.title {
+   font-family: "Roboto", sans-serif;
+   font-size: 120px;
+}
+.title {
+   font-weight: 700;
+   color: #000000;
+}
+
+.title {
+   text-align: center;
+}
+.text {
+   text-align: center;
+}
+.title {
+   text-decoration: underline;
+   text-decoration-color: black;
+   text-decoration-style: double;
+}
+
+.title {
+   text-shadow: 5px 5px 13px #cf0808
+}
+.text {
+   text-transform: uppercase;
+   line-height: 2;
+}
+h2 {
+   text-align: center;
+   color: #000000;
+}
+ h3 {
+   text-align: right;
+   font-size: 50px;
+   text-decoration: underline;
+ }
+ li {
+   color: #e40a0a;
+ }
+ .body {
+   text-align: right;
+   font-size: 18px;
+   font-family: "Roboto", serif;
+ }
